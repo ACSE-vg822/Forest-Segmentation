@@ -1,2 +1,2 @@
 # Forest-Segmentation
-Playing around with geospatial images of forest cover
+This is my personal project. I am using a dataset consisting of aerial images of forest patches and there corresponding mask images. In the masks, white represents forest cover and black represents non-forest cover. I will train a model to predict the mask when fed with an aerial image. This is my first project using geospatial as I learn the various use cases of such datasets. Keep an eye on this repository as I add more details :)

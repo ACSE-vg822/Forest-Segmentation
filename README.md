@@ -1,10 +1,10 @@
 # Carbon Credits Trading and Forest Health Analysis
 
-Welcome to my repository, where I delve into the intersection of carbon credits trading and forest health analysis. My recent interest in carbon credits trading has led me to explore how advanced image segmentation techniques can be used to assess the health of forests, a crucial factor in the accumulation and trading of carbon credits.
+Welcome to my repository, where I explore the intersection of carbon credits trading and forest health analysis. My recent interest in carbon credits trading has led me to find out how advanced image segmentation techniques can be used to assess the health of forests, a crucial factor in the accumulation and trading of carbon credits.
 
 ## Understanding Carbon Credits Trading
 
-Carbon credits trading is an innovative mechanism that allows firms to offset their carbon emissions by purchasing credits from organizations that actively reduce emissions or sequester carbon, such as those maintaining healthy forests. Here’s a brief overview of the process:
+Carbon credits trading is an innovative mechanism that allows firms to offset their carbon emissions by purchasing credits from organizations that actively reduce emissions or sequester carbon, such as those maintaining healthy forests(the one we explore here), producing renewable energy etc. Here’s a brief overview of the process:
 
 - **Emission Reduction Challenges**: High-emission firms often find it difficult to physically reduce their carbon footprint due to operational constraints. These firms look to purchase carbon credits to meet their emission reduction targets.
 - **Accumulating Credits**: Firms that manage and preserve forests accumulate carbon credits as their activities help sequester carbon dioxide from the atmosphere.
@@ -20,7 +20,7 @@ Investing in carbon credits requires thorough research to ensure the credits are
 
 ## This Repository
 
-In this repository, I focus on developing a model to predict masks in forest images, a foundational step towards analyzing forest health. Here’s what you can expect to find:
+In this repository, I develop a model to predict masks in forest images, a foundational step towards analyzing forest health. Here’s what you can expect to find:
 
 - **Image Segmentation Model**: Implementation of a U-Net model to segment and predict masks in satellite images of forests.
 - **Data Preparation**: Methods for preparing and preprocessing satellite images for segmentation tasks.
